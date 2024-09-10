@@ -1,0 +1,54 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body{
+  background-color: #e59494;
+}
+div{
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  margin: 30px;
+}
+.imagen img{
+  height:300px;
+}
+.titulo p{
+  font-size: 70px;
+  text-align: center;
+  color: #700000;
+  font-family: 'Lobster';
+}
+.enlaces p{
+  font-size: 30px;
+  text-align: center;
+  font-family: 'Arial Black';
+}
+
+.info1 p{
+  font-size: 40px;
+  text-align: justify;
+  font-family: "Calibri";
+
+}
+.cooperación p{
+  font-size: 40px;
+  text-align: center;
+  font-family: 'Arial Narrow';
+}
+
+.imagen2 img{
+  height:400px;
+  margin: 50px;
+   align-items:center;
+  border-radius: 50px;
+  border-style: dashed;
+}
+
+.imagen3 img{
+  height:200px;
+  margin: 50px;
+  align-items:center;
+}
